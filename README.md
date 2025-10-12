@@ -6,7 +6,7 @@ Bem-vindo(a) ao meu perfil! Escolha seu idioma abaixo ↓
 🇺🇸 [**English version**](./README_en.md)  
 🇧🇷 ↓ 
 
-# 👋 Olá! Eu sou o Henrique Daniel  
+# Eu sou o Henrique Daniel  
 
 🎓 Sou estudante de **Ciência da Computação na UESC** e bolsista **PIBIC na CEPEC/CEPLAC**, onde desenvolvo **ferramentas de IA e Visão Computacional para fenotipagem digital do cacaueiro**.  
 
