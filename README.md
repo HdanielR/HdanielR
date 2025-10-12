@@ -22,6 +22,7 @@ Bem-vindo(a) ao meu perfil! Escolha seu idioma abaixo ↓
 🚀 Curioso, analítico e em constante aprendizado
 ❤️ Eu gosto de cachorros, gatos, plantas, de fingir que sou bom em jogos e de cozinhar
 
+
 ---
 
 ## 🧰 Tecnologias  
