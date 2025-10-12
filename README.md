@@ -6,9 +6,9 @@ Bem-vindo(a) ao meu perfil! Escolha seu idioma abaixo ↓
 🇺🇸 [**English version**](./README_en.md)  
 🇧🇷 ↓ 
 
-# Eu sou o Henrique Daniel  
+# Eu sou Henrique Daniel  
 
-🎓 Sou estudante de **Ciência da Computação na UESC** e bolsista **PIBIC na CEPEC/CEPLAC**, onde desenvolvo **ferramentas de IA e Visão Computacional para fenotipagem digital do cacaueiro**.  
+🎓 Estudante de **Ciência da Computação na UESC** e bolsista **PIBIC na CEPEC/CEPLAC**, onde desenvolvo **ferramentas de IA e Visão Computacional para fenotipagem digital do cacaueiro**.  
 
 💡 Apaixonado por **Inteligência Artificial**, **Ciência de Dados** e **Desenvolvimento de Software**, gosto de criar soluções que unem tecnologia, dados e criatividade — do backend aos modelos inteligentes.  
 
@@ -17,7 +17,7 @@ Bem-vindo(a) ao meu perfil! Escolha seu idioma abaixo ↓
 ## 🧠 Sobre mim  
 ✨ Explorando IA, Ciência de Dados e Desenvolvimento Web desde 2022  
 📸 Pesquisando **visão computacional aplicada à agricultura**  
-🐍 Focado em **Python, Django, Machine Learning e Análise de Dados**  
+🐍 Focado em **Python, Django, Machine Learning e Análise de Dados** 
 🌐 Experiência com **desenvolvimento front-end e back-end**  
 ❤️ Eu gosto de cachorros, gatos, plantas, de fingir que sou bom em jogos e de cozinhar
 
