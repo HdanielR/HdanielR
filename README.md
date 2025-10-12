@@ -18,7 +18,8 @@ Bem-vindo(a) ao meu perfil! Escolha seu idioma abaixo ↓
 ✨ Explorando IA, Ciência de Dados e Desenvolvimento Web desde 2022  
 📸 Pesquisando **visão computacional aplicada à agricultura**  
 🐍 Focado em **Python, Django, Machine Learning e Análise de Dados**  
-🌐 Experiência com **desenvolvimento front-end e back-end**  
+🌐 Experiência com **desenvolvimento front-end e back-end**   
+🚀 Curioso, analítico e em constante aprendizado   
 ❤️ Eu gosto de cachorros, gatos, plantas, de fingir que sou bom em jogos e de cozinhar  
 
 ---
