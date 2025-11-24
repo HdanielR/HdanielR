@@ -69,11 +69,6 @@ Bem-vindo(a) ao meu perfil! Escolha seu idioma abaixo ↓
 
 ---
 
-## 📈 Estatísticas  
-
-![Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=HdanielR&show_icons=true&theme=github_dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HdanielR&layout=compact&theme=github_dark)
-
 ---
 
 ## 🌐 Contato  
