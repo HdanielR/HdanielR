@@ -12,7 +12,6 @@
 🐍 Focused on **Python, Django, Machine Learning and Data Analysis**  
 🌐 Experience with **front-end and back-end** development   
 🚀 Curious, analytical, and always learning something new   
-❤️ I like dogs, cats, plants, pretending I’m good at games, and cooking.
 
 ---
 
