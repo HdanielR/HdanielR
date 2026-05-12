@@ -20,7 +20,6 @@ Bem-vindo(a) ao meu perfil! Escolha seu idioma abaixo ↓
 🐍 Focado em **Python, Django, Machine Learning e Análise de Dados**  
 🌐 Experiência com **desenvolvimento front-end e back-end**   
 🚀 Curioso, analítico e em constante aprendizado   
-❤️ Eu gosto de cachorros, gatos, plantas, de fingir que sou bom em jogos e de cozinhar  
 
 ---
 
